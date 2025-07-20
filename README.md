@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Deekshant-Rawat
 - 👀 I’m interested in developing/creating a new world
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on /0
 - 📫 How to reach me deekrawat619@gmail.com
 
 <!---
